@@ -9,6 +9,9 @@
 
 ## ESP32
 
+# Pins:
+* RX2 / GPIO16
+* TX2 / GPIO17
 
 ## Sensor
 
