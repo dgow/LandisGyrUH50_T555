@@ -15,4 +15,6 @@
 
 ## Sensor
 
+Something like this:
+
 https://www.ebay.de/itm/314015465828
